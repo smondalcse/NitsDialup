@@ -1,0 +1,1 @@
+include ':app', ':zdk.java-release', ':zdk-v2.0.10.3'
